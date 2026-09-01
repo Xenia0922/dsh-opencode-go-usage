@@ -8,7 +8,18 @@
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-2a3558" alt="平台：Windows、macOS、Linux" />
   <img src="https://img.shields.io/badge/runtime-DSH%20plugin-4d6bfe" alt="运行时：DSH 插件" />
   <img src="https://img.shields.io/badge/tests-27%20passing-22c3a6" alt="测试：27 通过" />
+  <img src="https://img.shields.io/badge/maintenance-discontinued-ff9f1c" alt="维护状态：无限期停更" />
 </p>
+
+> [!WARNING]
+> # 🛑 项目无限期停更 (Unmaintained)
+>
+> 本项目自 **2026-09-01** 起**无限期停止维护**，不再接收新功能、修复或 issue 反馈。
+> 仓库将保持公开、代码与历史提交原样保留，任何人可自由 fork 或继续使用（MIT 许可）。
+>
+> 请勿提交 issue 或 PR —— 它们不会被处理。
+>
+> 如果 DeepSeek Harness / OpenCode 上游 API 发生变化导致插件失效，本仓库不会跟进修复。
 
 # OpenCode Go 用量面板
 
